@@ -9814,3 +9814,283 @@
 
 20221119	22:23:54	7093d24c-b6fa-423f-a0e8-4e628efc3478	GET	/leagues	http://localhost:3000
 
+20221119	22:43:29	b795e4af-9b25-43f8-bfca-c817d373e7e6	GET	/auth/refresh	http://localhost:3000
+
+20221119	22:43:34	b97778c2-4bd6-4a7f-99cf-9bd9f13f6ba2	OPTIONS	/users	http://localhost:3000
+
+20221119	22:43:34	09f940b3-8bdd-45b0-acf0-cbbc41ba6e94	OPTIONS	/officers	http://localhost:3000
+
+20221119	22:43:34	7cdbb958-97f1-43e3-a678-fa09b63a5422	OPTIONS	/leagues	http://localhost:3000
+
+20221119	22:43:35	aaa7419d-61d6-474b-8a05-bcaed8135c28	GET	/users	http://localhost:3000
+
+20221119	22:43:35	3f5c0b91-0fb4-4f6d-a8c7-b8de9860b827	GET	/officers	http://localhost:3000
+
+20221119	22:43:35	92b6e5ba-dbe3-4f64-a586-96e0b467a37f	GET	/leagues	http://localhost:3000
+
+20221119	23:14:25	c7d4bd27-5ed4-4621-986a-56b5aa41c087	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:14:27	e6a89831-24d4-4051-a468-01f5cf26248b	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:14:41	a0cbfe43-b83b-4821-936a-8a6642852325	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:14:42	7a54af16-6707-441f-ac2d-8719f932a0ad	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:14:53	3df0e920-86a5-42de-9ae9-fb11982d6a25	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:14:53	d238dc30-d675-46cd-a70c-e1b82c027130	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:15:05	a6bc3cff-4f46-4035-947e-2dfef1b4cf38	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:15:05	0b9b70de-87c2-4f0e-9704-d31ee8e4739c	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:15:21	689f5fa0-e786-4575-b6c5-63e54c3f7331	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:15:21	b8733f85-1234-48e2-98a5-bf411db8d6bf	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:15:37	ee75fd8d-0a33-4d0c-92e9-6df54dea5041	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:15:38	88750b95-4c74-44e2-a5b8-a7611f8ec185	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:15:53	5ec8916f-b97b-4668-8fea-615818785e5c	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:15:53	127f0305-7a85-48d2-8498-7b6d29c9b6ac	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:16:09	dcfb4877-178d-4bc0-b88b-29d7dd4a9401	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:16:09	6a071fc5-f9fa-4e95-b989-52baf9e1e4d8	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:16:25	e7b886c0-46ce-4607-ab85-4cd080be1036	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:16:25	f4dae496-59e9-4692-a4cf-39e552bbab9a	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:16:41	9d750727-543d-48d4-b446-cb1c79871e41	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:16:41	d1334896-c832-49a9-bb0f-b2045749ab5a	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:16:57	d4376aa2-e489-49ca-8ad0-10e6f6d23372	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:16:57	6514147f-7fcc-477b-84f8-80f885b41d54	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:17:13	233df8fa-f41a-4abb-b22f-1f5238c5b9d3	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:17:13	41b96af8-d51b-4f9d-9fc2-3abc1570539c	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:17:29	196c0f96-749a-4fae-b850-080c65a55b61	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:17:29	c09ccdd2-54eb-4c49-a51e-e282701c4500	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:17:45	c5bc6326-2007-40cf-8cb7-7f7b04d758a9	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:17:45	f0d16732-5124-44c3-9055-9077411b781b	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:18:01	517f4499-5892-4c51-82b1-031dad629cad	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:18:01	c76d9ecc-2e73-4289-a94a-a0165c84812d	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:18:17	70f78f8c-5236-48dd-a0ba-64f03fffb558	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:18:17	a1317ec9-48a9-4cc6-8dce-c97bbb7eb15e	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:18:33	571217df-b95e-446e-993a-c0a26ef7d8a1	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:18:33	94ea99c9-cda3-4607-b71d-459634ca5dfc	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:18:49	f619aadf-fd53-4c7d-8654-aa7dec47af7b	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:18:49	356c1ac8-ab19-413a-83ed-48b98c8a8ac1	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:19:05	b54d3146-d379-4d6b-b2aa-3215b910ce98	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:19:05	fafa1ad5-d32b-49c8-b93f-596a058636c3	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:19:21	19373ffd-fa89-424c-9c67-cf7bbb2f1f22	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:19:21	e3e6ac88-aedc-49ef-be3f-941f8127ba70	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:19:37	ec49c005-90ef-4861-bb07-59e0391af2d9	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:19:37	f2359e93-29a9-45a7-8706-92ac54d0986b	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:19:53	2e15d158-742d-434e-99b0-e01bdcbca8d7	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:19:53	4313fd0b-53bd-4544-8466-5ceadc7fd723	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:20:09	8d2a6ae1-bebe-49ed-84d3-2397deac1fcf	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:20:09	9578731a-cf9c-40d5-a201-8e998863e30e	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:20:25	f1c00f03-352f-4cb5-814f-29c3147acc20	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:20:25	6f5bc8ec-d903-4494-823a-fe0f0ce7d654	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:20:41	e3216136-fa8e-4ad2-bc45-ba793d39bd11	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:20:41	9c0b8f31-668f-4edd-9e36-8c40ee1e73c3	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:20:57	626b0b4d-198b-44c0-bdd4-cbd4d6fcf267	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:20:57	9a970fec-d550-4dd5-a4b6-2df9e8376c24	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:21:13	cf772ccb-0ee4-423d-be42-24617f9aefa8	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:21:13	e49b535a-3e11-46be-af17-826df7302b04	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:21:29	38e67a30-b59d-46d5-885e-e348324db875	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:21:29	fd48ca57-a5b4-43bc-8d53-23d09325d119	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:21:45	21c52eae-d731-422f-8b89-aab7f868c742	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:21:45	cea6a502-2b4e-4589-826a-3b6369cce875	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:22:01	8a7c20a4-638f-463a-a296-7351b907cd61	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:22:01	12012751-d040-46c6-a8be-6aec4b3a484a	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:22:17	530cfb53-b571-4bba-ad88-d5b0d3dfe9c3	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:22:17	f51555d8-b1b0-44c0-be1d-dc329357692c	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:22:24	c3cae43e-9446-493f-a12e-385c88a6276f	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:22:24	ad2121a7-1da4-442c-a113-282793c4ff53	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:22:39	469068a7-58bd-4331-9267-85f87e998638	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:22:39	af9c4f7e-c4c8-449f-a88b-f4b2e0241a2d	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:22:55	c7736781-453b-45c9-a7c6-f40adb5915a4	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:22:55	07457e62-caba-47b0-b5b2-cd1a961d9363	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:23:11	81a6137a-e135-4010-a417-031fc0824c95	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:23:11	de1a4b94-18fd-4e2a-b7b8-d250e33d4449	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:23:19	c393c001-c850-4ac1-a691-ba80c0df267c	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:23:19	1e5bd16b-896f-40df-ace3-1ea39f3b7da6	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:23:31	ae676445-8f76-472d-a716-14096ac131a6	OPTIONS	/auth	https://naijacities.onrender.com
+
+20221119	23:32:59	a1f33b87-176b-4df6-8cb8-227d88b4357e	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:32:59	a45494a4-594e-4e29-ab24-5ec67e09db87	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:33:14	8d0860c9-7d9a-45d3-8dea-edabb555c3b4	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:33:14	ba98a0c6-5546-41c4-b13c-bdd547e22b03	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:33:30	f81dbbb6-fbf0-434a-8340-14e549086c46	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:33:30	248891b8-fc68-44bd-836e-d13ec4ce8f2b	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:33:46	9b7108f6-16ac-4390-8728-fab6833902d6	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:33:46	96c86161-a017-4fbb-a0af-75da593dc034	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:34:02	e349d6b8-0669-49e9-b09f-86b6d940f8ec	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:34:02	dd342dee-5a73-43d1-9cc9-2e46da66ed18	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:34:18	25a4f00a-3fca-478c-88e6-8277aa6e2be1	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:34:18	d982dbf7-c63f-43bd-b171-28c679506e1b	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:34:34	74f45fc5-53b1-4ec6-a7ef-2f10cfe17d10	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:34:34	2c06ed85-5784-4dc8-8937-bda995cfcaa9	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:34:50	34e81be6-0859-4625-be31-d52d9bfc9225	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:34:50	295ce2d9-c2ae-4dd5-aa31-a0a170f307d8	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:35:06	1b63f44b-24ed-46bc-b80f-dbe51a0cc951	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:35:06	75042a5f-7b6e-4ffc-9535-85607da9c74e	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:35:22	5f2ee7f4-3b8d-4406-a48c-ebc7d54f0398	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:35:22	39897835-541a-4bbb-8e40-fb033e793fdc	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:35:38	0cac6b30-4815-42e0-b1ec-d0467b6c5ca9	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:35:38	cb19263d-802f-401f-a45a-550d52c65419	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:35:54	4486647b-98de-41e9-bb3b-9c6eb470b59a	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:35:54	3d1837bc-88e1-40b9-acae-bc73c155fe5e	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:36:10	a3c147e9-b3e4-4e0c-9407-fbc886df3f6a	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:36:10	f37a72a5-8a42-44d0-8999-f36b231d67b2	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:36:26	cc5bbb8a-eccd-41f5-9d6c-f9a7fda59fc5	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:36:26	74430dc4-2e07-453c-b23f-186501569031	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:36:42	41ceb743-a1d7-40ab-83e1-4942ea72e799	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:36:42	6012bf2f-64e0-41a5-8cbc-0734e197f2d3	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:36:58	f18962a8-bd3a-45a1-8fd3-3123baa36637	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:36:58	3ef41bbe-438b-4746-b298-1e39dc98be86	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:37:14	0211e92d-8a4f-492f-ac5d-9a370489d772	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:37:14	9ddccba9-adeb-4cb3-9721-a3efabb08d58	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:37:30	275489fc-33cb-473c-adae-311a26c5774d	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:37:30	0ddf08be-6979-4958-a473-0173431383f3	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:37:46	04f042df-ab23-4680-83f3-f19c00f2f120	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:37:46	436deeab-46d5-468d-8168-83c3df3eb109	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:38:02	19f7b398-d6ea-4377-b0ab-3a7b81b41c15	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:38:02	bd1c391b-0bba-470a-8023-7fb38d128427	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:38:18	cab3a057-4ebf-49e6-baf5-e97148c61bd0	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:38:18	4c985aa6-15a5-43c1-97c7-fcbe5e9d0283	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:38:34	fdc4f5d5-d327-4fcb-b324-5a55c9db749d	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:38:34	d917e25d-8547-469e-98f3-79898e2d122e	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:38:50	9774dc0e-3199-444e-aee7-594da154220f	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:38:50	4dba6a94-d659-487d-b70f-e0944efc4ffd	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:39:06	527806db-865e-4d8f-92e4-742fd657c40e	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:39:06	51339050-4ce1-47b5-9004-2a9a80fa5f0a	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:39:22	5973567a-3358-4254-b914-eacda718036b	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:39:22	23d21d5a-d3e3-4815-9527-e23b55d46330	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:39:38	3ad46b4b-bde0-42d4-86fa-894d5622790d	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:39:38	94fe8c0b-19fb-432d-a8b2-fd053a025b62	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:39:54	164d2840-9295-4c10-9ae1-795eb78eec70	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:39:54	bbc401ec-46b4-4763-a1aa-e42641cd40fe	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:40:10	03b6bf75-765c-4c94-8fb2-298ee83c1d9f	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:40:10	a8cfb02a-9256-4472-b316-e13c9b082d8a	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:40:26	3621258a-53a6-4d40-88e4-c838c72966fe	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:40:26	3ffbf420-ee65-4a6f-8072-66070b8e68a4	GET	/cities	https://naijacities.onrender.com
+
+20221119	23:40:42	cf67b688-7034-4884-94e5-1957cc0384f1	OPTIONS	/cities	https://naijacities.onrender.com
+
+20221119	23:40:42	e0c818b2-2fe9-4f05-b51b-f8297c9c6fbf	GET	/cities	https://naijacities.onrender.com
+
